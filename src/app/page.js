@@ -96,7 +96,7 @@ export default function Home() {
     </div>
     </div>
       </div>
-      <Image src="/1.png" alt="My Image" width={565} height={200} />
+      <Image src="/1.png" alt="My Image" width={600} height={200} />
     </div>
     </div>
 
